@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the [College of Computer Science and Artificia
 My research interests lie in **large language models**, **large vision-language models**, and **intelligent agents**, focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2025.05*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
 - *2025.05*: &nbsp; One paper accepted by ACL 2025(Oral).
 - *2025.03*: &nbsp; One paper accepted by ICLR 2025 Workshop SCI-FM.
 - *2025.01*: &nbsp; One paper accepted by ICLR 2025.
@@ -31,6 +32,21 @@ My research interests lie in **large language models**, **large vision-language 
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2025</div><img src='images/supergpqa.jpg' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**
+[[Paper](https://arxiv.org/pdf/2502.14739)]
+[[Github](https://github.com/SuperGPQA/SuperGPQA)]
+[[Huggingface](https://huggingface.co/datasets/m-a-p/SuperGPQA)]
+
+M-A-P Team
+
+NeurIPS Dataset and Benchmark Track 2025
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025(Oral)</div><img src='images/critic.jpg' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -175,17 +191,6 @@ Alexander Zhang\*, Marcus Dong\*, Jiaheng Liu\*†, Wei Zhang, Yejie Wang, Jian 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/supergpqa.jpg' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**
-[[Paper](https://arxiv.org/pdf/2502.14739)]
-[[Github](https://github.com/SuperGPQA/SuperGPQA)]
-[[Huggingface](https://huggingface.co/datasets/m-a-p/SuperGPQA)]
-
-M-A-P Team
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FullStack.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
