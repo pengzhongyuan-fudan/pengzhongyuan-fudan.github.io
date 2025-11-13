@@ -22,7 +22,7 @@ I am currently a Ph.D. student at the [College of Computer Science and Artificia
 My research interests lie in **large language models**, **large vision-language models**, and **intelligent agents**, focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
-- *2025.05*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
+- *2025.10*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
 - *2025.05*: &nbsp; One paper accepted by ACL 2025(Oral).
 - *2025.03*: &nbsp; One paper accepted by ICLR 2025 Workshop SCI-FM.
 - *2025.01*: &nbsp; One paper accepted by ICLR 2025.
