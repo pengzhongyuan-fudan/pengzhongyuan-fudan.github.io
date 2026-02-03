@@ -22,16 +22,25 @@ I am currently a Ph.D. student at the [College of Computer Science and Artificia
 My research interests lie in **large language models**, **large vision-language models**, and **intelligent agents**, focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2026.02*: &nbsp; One paper accepted by ICLR 2026.
 - *2025.10*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
 - *2025.05*: &nbsp; One paper accepted by ACL 2025(Oral).
 - *2025.03*: &nbsp; One paper accepted by ICLR 2025 Workshop SCI-FM.
-- *2025.01*: &nbsp; One paper accepted by ICLR 2025.
-- *2024.12*: &nbsp; One paper accepted by AAAI 2025.
-- *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 Datasets and Benchmarks Track.
-- *2024.05*: &nbsp; One paper accepted by ACL 2024 Findings. 
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/IVBench.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs**
+[[Paper](https://arxiv.org/pdf/2504.15415)]
+[[Github](https://github.com/multimodal-art-projection/IV-Bench)]
+
+M-A-P Team
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2025</div><img src='images/supergpqa.jpg' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -133,6 +142,30 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/codiq.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation**
+[[Paper](https://arxiv.org/pdf/2602.01660)]
+[[Github](https://github.com/ALEX-nlp/CoDiQ)]
+[[Huggingface](https://huggingface.co/datasets/AleXGroup/CoDiQ-Corpus)]
+
+
+**Zhongyuan Peng**, Caijun Xu, Changyi Xiao, Shibo Hong, Eli Zhang†, Stephen Huang, Yixin Cao†
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/scaler.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**SCALER: Synthetic Scalable Adaptive Learning Environment for Reasoning**
+[[Paper](https://www.arxiv.org/pdf/2601.04809)]
+[[Github](https://github.com/ALEX-nlp/SCALER)]
+
+Caijun Xu, Changyi Xiao, **Zhongyuan Peng**, Xinrun Wang, Yixin Cao†
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/kat.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **KAT-V1: Kwai-AutoThink Technical Report**
@@ -163,17 +196,6 @@ Zizheng Zhan\*†, Ken Deng\*, Huaixi Tang\*, Wen Xiang\*, Kun Wu\*, Weihao Li, 
 [[Huggingface](https://huggingface.co/SphereLab)]
 
 Zhouliang Yu\*, Ruotian Peng\*, Keyi Ding\*, Yizhe Li, **Zhongyuan Peng**, Minghao Liu, Yifan Zhang, Zheng Yuan, Huajian Xin, Wenhao Huang, Yandong Wen, Ge Zhang, Weiyang Liu†
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/IVBench.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs**
-[[Paper](https://arxiv.org/pdf/2504.15415)]
-[[Github](https://github.com/multimodal-art-projection/IV-Bench)]
-
-M-A-P Team
 
 </div>
 </div>
