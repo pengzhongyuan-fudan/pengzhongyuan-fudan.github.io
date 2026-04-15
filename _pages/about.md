@@ -22,13 +22,38 @@ I am currently a Ph.D. student at the [College of Computer Science and Artificia
 My research interests lie in **large language models**, **large vision-language models**, and **intelligent agents**, focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2026.04*: &nbsp; Two paper accepted by ACL 2026.
 - *2026.02*: &nbsp; One paper accepted by ICLR 2026.
 - *2025.10*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
-- *2025.05*: &nbsp; One paper accepted by ACL 2025(Oral).
+- *2025.05*: &nbsp; One paper accepted by ACL 2025.
 - *2025.03*: &nbsp; One paper accepted by ICLR 2025 Workshop SCI-FM.
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Oral)</div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**
+[[Paper](https://arxiv.org/pdf/2507.06181)]
+[[Github](https://github.com/multimodal-art-projection/CriticLean)]
+[[Huggingface](https://huggingface.co/datasets/m-a-p/FineLeanCorpus)]
+
+**Zhongyuan Peng\***, Yifan Yao\*, Kaijing Ma\*, Shuyue Guo, Yizhe Li, Yichi Zhang, Chenchen Zhang, Yifan Zhang, Zhouliang Yu, Luming Li, Minghao Liu, Yihang Xia, Jiawei Shen, Yuchen Wu, Yixin Cao, Zhaoxiang Zhang, Wenhao Huang, Jiaheng Liu†, Ge Zhang†
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/scaler.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**SCALER: Synthetic Scalable Adaptive Learning Environment for Reasoning**
+[[Paper](https://www.arxiv.org/pdf/2601.04809)]
+[[Github](https://github.com/ALEX-nlp/SCALER)]
+
+Caijun Xu, Changyi Xiao, **Zhongyuan Peng**, Xinrun Wang, Yixin Cao†
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/IVBench.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -155,35 +180,12 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/scaler.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**SCALER: Synthetic Scalable Adaptive Learning Environment for Reasoning**
-[[Paper](https://www.arxiv.org/pdf/2601.04809)]
-[[Github](https://github.com/ALEX-nlp/SCALER)]
-
-Caijun Xu, Changyi Xiao, **Zhongyuan Peng**, Xinrun Wang, Yixin Cao†
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/kat.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **KAT-V1: Kwai-AutoThink Technical Report**
 [[Paper](https://arxiv.org/pdf/2507.06181)]
 
 Zizheng Zhan\*†, Ken Deng\*, Huaixi Tang\*, Wen Xiang\*, Kun Wu\*, Weihao Li, Wenqiang Zhu, Jingxuan Xu, Lecheng Huang, Zongxian Feng, Shaojie Wang, Shangpeng Yan, Xuxing Chen, Jiaheng Liu, **Zhongyuan Peng**, Zuchen Gao, Haoyang Huang, Xiaojiang Zhang, Jinghui Wang, Zheng Lin, Mengtong Li, Huiming Wang, Ziqi Zhan, Yanan Wu, Yuanxing Zhang, Jian Yang, Guang Chen, Haotian Zhang, Bin Chen, Bing Yu
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**
-[[Paper](https://arxiv.org/pdf/2507.06181)]
-[[Github](https://github.com/multimodal-art-projection/CriticLean)]
-[[Huggingface](https://huggingface.co/datasets/m-a-p/FineLeanCorpus)]
-
-**Zhongyuan Peng\***, Yifan Yao\*, Kaijing Ma\*, Shuyue Guo, Yizhe Li, Yichi Zhang, Chenchen Zhang, Yifan Zhang, Zhouliang Yu, Luming Li, Minghao Liu, Yihang Xia, Jiawei Shen, Yuchen Wu, Yixin Cao, Zhaoxiang Zhang, Wenhao Huang, Jiaheng Liu†, Ge Zhang†
 
 </div>
 </div>
