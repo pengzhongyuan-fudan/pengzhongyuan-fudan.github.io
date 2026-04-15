@@ -26,7 +26,6 @@ My research interests lie in **large language models**, **large vision-language 
 - *2026.02*: &nbsp; One paper accepted by ICLR 2026.
 - *2025.10*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
 - *2025.05*: &nbsp; One paper accepted by ACL 2025.
-- *2025.03*: &nbsp; One paper accepted by ICLR 2025 Workshop SCI-FM.
 
 
 # 📝 Selected Publications
