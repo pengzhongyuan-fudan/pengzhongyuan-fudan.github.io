@@ -22,7 +22,7 @@ I am currently a Ph.D. student at the [College of Computer Science and Artificia
 My research focuses on **reinforcement learning algorithms**, **large language models**, and **intelligent agents**, with a particular emphasis on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
-- *2026.04*: &nbsp; Two paper accepted by ACL 2026.
+- *2026.04*: &nbsp; Two papers accepted by ACL 2026.
 - *2026.02*: &nbsp; One paper accepted by ICLR 2026.
 - *2025.10*: &nbsp; One paper accepted by NeurIPS 2025 Datasets and Benchmarks Track.
 - *2025.05*: &nbsp; One paper accepted by ACL 2025.
