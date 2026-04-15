@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 I am currently a Ph.D. student at the [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). 
-My research interests lie in **large language models**, **large vision-language models**, and **intelligent agents**, focusing on advancing the fields of natural language processing and automated content creation.
+My research focuses on **reinforcement learning algorithms**, **large language models**, and **intelligent agents**, with a particular emphasis on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
 - *2026.04*: &nbsp; Two paper accepted by ACL 2026.
