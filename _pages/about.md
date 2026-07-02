@@ -31,7 +31,7 @@ My research focuses on **reinforcement learning algorithms**, **large language m
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dlebench.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **DLEBench: Evaluating Small-scale Object Editing Ability for Image Editing Models**
 [[Paper](https://openreview.net/pdf?id=QdmL5vs0sg)]
