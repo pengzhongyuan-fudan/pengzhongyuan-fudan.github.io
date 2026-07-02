@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the [College of Computer Science and Artificia
 My research focuses on **reinforcement learning algorithms**, **large language models**, and **intelligent agents**, with a particular emphasis on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2026.05*: &nbsp; One paper accepted to ICML 2026.
 - *2026.04*: &nbsp; Two papers accepted to ACL 2026.
 - *2026.02*: &nbsp; One paper accepted to ICLR 2026.
 - *2025.10*: &nbsp; One paper accepted to NeurIPS 2025 Datasets and Benchmarks Track.
@@ -30,7 +31,17 @@ My research focuses on **reinforcement learning algorithms**, **large language m
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Oral)</div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**DLEBench: Evaluating Small-scale Object Editing Ability for Image Editing Models**
+[[Paper](https://openreview.net/pdf?id=QdmL5vs0sg)]
+
+Shibo Hong\*, Boxian Ai\*, Jun Kuang, Wei Wang, FengJiao Chen, **Zhongyuan Peng**, Chenhao Huang, Yixin Cao†
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**
 [[Paper](https://arxiv.org/pdf/2507.06181)]
