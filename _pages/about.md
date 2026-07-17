@@ -177,6 +177,17 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icae.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders**
+[[Github](https://github.com/ALEX-nlp/ICAE-EVAL)]
+
+
+**Zhongyuan Peng\***, Dan Huang\*, Chuyu Zhang, Caijun Xu, Changyi Xiao, Shibo Hong, David Lo, Lin Qiu, Xuezhi Cao, Jiyuan He†, Yixin Cao†
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/codiq.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation**
